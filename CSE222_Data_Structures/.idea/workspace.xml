@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc1eb451-8b26-456b-8300-865d4449fbe1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HW5/Q1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/Q2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part1/out/production/HW3/com/company/LinkedArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part1/out/production/HW3/com/company/LinkedArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part1/out/production/HW3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part1/out/production/HW3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part1/rapor_part1.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part1/src/com/company/LinkedArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part1/src/com/company/LinkedArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part1/src/com/company/LinkedArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part1/src/com/company/LinkedArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part1/src/com/company/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part1/src/com/company/makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part2/readText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part2/readText.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part2/src/com/company/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part2/src/com/company/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part2/src/com/company/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part2/src/com/company/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part2/src/com/company/SimpleTextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part2/src/com/company/SimpleTextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part3/out/production/part3/com/company/CrossWordPuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part3/out/production/part3/com/company/CrossWordPuzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part3/out/production/part3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part3/out/production/part3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part3/out/production/part3/com/company/WordLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part3/out/production/part3/com/company/WordLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part3/out/production/part3/com/company/WordLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part3/out/production/part3/com/company/WordLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part3/src/com/company/CrossWordPuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part3/src/com/company/CrossWordPuzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/part3/src/com/company/WordLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/part3/src/com/company/WordLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/Q2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HW4/Q2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/Q2/q2_report.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/Q2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW4/Q2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Q1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/Q1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Q1/src/com/company/FileSystemTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/Q1/src/com/company/FileSystemTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Q1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/Q1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Q2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/Q2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Q2/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Q2/postfix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Q2/prefix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Q2/src/com/company/ExpressionTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/Q2/src/com/company/ExpressionTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/Q2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/Q2/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HW3/part1" />
+  </component>
+  <component name="ProjectId" id="1bZo1OhQdMSSpko5Xfitye0lLhW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc1eb451-8b26-456b-8300-865d4449fbe1" name="Default Changelist" comment="" />
+      <created>1588848760736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588848760736</updated>
+      <workItem from="1588848762165" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data Structures and Algorithms Assignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Structures and Algorithms Assignments" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="403" y="102" width="424" height="510" key="FileChooserDialogImpl" timestamp="1588848868197">
+      <screen x="0" y="0" width="1251" height="720" />
+    </state>
+    <state x="403" y="102" width="424" height="510" key="FileChooserDialogImpl/0.0.1251.720@0.0.1251.720" timestamp="1588848868197" />
+    <state x="459" y="258" width="322" height="199" key="Github.ShareDialog" timestamp="1588848885483">
+      <screen x="0" y="0" width="1251" height="720" />
+    </state>
+    <state x="459" y="258" width="322" height="199" key="Github.ShareDialog/0.0.1251.720@0.0.1251.720" timestamp="1588848885483" />
+    <state x="283" y="59" width="675" height="597" key="NewModule_or_Project.wizard" timestamp="1588848929360">
+      <screen x="0" y="0" width="1251" height="720" />
+    </state>
+    <state x="283" y="59" width="675" height="597" key="NewModule_or_Project.wizard/0.0.1251.720@0.0.1251.720" timestamp="1588848929360" />
+    <state x="458" y="153" width="324" height="410" key="svn.repositoryBrowser" timestamp="1588848870679">
+      <screen x="0" y="0" width="1251" height="720" />
+    </state>
+    <state x="458" y="153" width="324" height="410" key="svn.repositoryBrowser/0.0.1251.720@0.0.1251.720" timestamp="1588848870679" />
+    <state x="388" y="144" width="454" height="426" key="svn4idea.import.options" timestamp="1588848869689">
+      <screen x="0" y="0" width="1251" height="720" />
+    </state>
+    <state x="388" y="144" width="454" height="426" key="svn4idea.import.options/0.0.1251.720@0.0.1251.720" timestamp="1588848869689" />
+  </component>
+</project>
