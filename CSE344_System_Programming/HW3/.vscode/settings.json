@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "source.h": "c",
+        "singular_value_decomposition.h": "c"
+    }
+}
